@@ -1,0 +1,5 @@
+Ad Astra;Fiction;12;18 September 2019;2d;123 minutes;book xxx;Brad Pitt, Tommy Lee Jones;Astronaut Roy McBride (Brad Pitt) travels to the outer edges of the solar system to find his missing father;James Gray;10.0
+Black and Blue;Drama;15;25 October 2019;2d;108 minutes;book xxx;Naomie Harris, Frank Grillo;Exposure follows a rookie Detroit African-American female cop;Deon Taylor;12.0
+Doctor Sleep;Triller;16;31 October 2019;2d,152 minutes;book xyz;Ewan Mcgregor, Rebecca Ferguson;Danny Torrance is a middle-aged man drifting though America in order to shed his father's alcoholism;Mike Flanagan;11.0;12.0
+Joker;Action;16;04 October 2019;2d;122 minutes;book ddd;Joaquin Phoenix, Robert De Niro;Director Todd Phillips 'Joker' centers around the iconic arch nemesis and is an original, standalone fictional story not seen before on the big screen;Todd Phillips;13.0
+Mid-way;Real story;12;08 November 2019;2d;138 minutes;real story;Ed Skrein, Patrick Wilson;is the epic, real-life saga about an undermanned American fleet and the brave Navy leaders and pilots who triumphed, against the odds, over a powerful adversary;Roland Emmerich;11.0
